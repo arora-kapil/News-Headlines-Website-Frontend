@@ -2,7 +2,7 @@
 
 This is a full-stack news website that fetches top headlines from the NewsAPI and displays them to users. The frontend is built using React, and the backend is powered by Spring Boot. Users can view news articles by category or search for specific news topics.
 
-* Link to the backend repository: https://github.com/arora-kapil/News-Headlines-Website-Backend
+* Link to the backend repository: [https://github.com/arora-kapil/News-Headlines-Website-Backend](https://github.com/arora-kapil/News-Headlines-Website-Backend/tree/master)
 
 ## Features
 
